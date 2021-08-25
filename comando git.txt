@@ -1,0 +1,6 @@
+inicializa GIT en una carpeta:
+        git init
+poner usuario:
+        git config --local user.name "usuario"
+poner email:
+        git config --email "correo"
