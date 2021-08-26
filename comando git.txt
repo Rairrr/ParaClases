@@ -4,4 +4,8 @@ poner usuario:
         git config --local user.name "usuario"
 poner email:
         git config --email "correo"
-Hola
+revisar historial de commit:
+        git log
+regresar a un punto anterior:
+        git reset TAG --hard
+        git reset TAG --soft
