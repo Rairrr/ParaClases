@@ -9,3 +9,6 @@ revisar historial de commit:
 regresar a un punto anterior:
         git reset TAG --hard
         git reset TAG --soft
+crea una nueva rama:
+        git branch <nombre de la rama>
+ESTO GENERARÁ UN CONFLICTO
